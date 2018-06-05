@@ -14,3 +14,5 @@ optional arguments:
   -h, --help  show this help message and exit
   --url       pull an article from the web (default: from filesystem)
 ```
+
+Note: the program cannot read multi-paragraph articles from command line in its current state.
